@@ -41,3 +41,4 @@ local.properties
 .loadpath
 .recommenders
 .classpath
+/keystore.p12
